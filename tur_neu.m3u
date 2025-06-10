@@ -1,43 +1,43 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="ana",A Haber
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107256
 
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="ana",TGRT Haber
-https://canli.tgrthaber.com/tgrt.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107275
 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="ana",TRT Haber
-http://185.234.111.229:8000/play/a00d
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107258
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="ana",TRT 1
-http://185.234.111.229:8000/play/a00c
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107230
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="ana",Show TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107241
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="ana",ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107238
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="ana",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107245
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="https://i.imgur.com/9O3DHRB.png" group-title="ana",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107242
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://i.imgur.com/6tv0zxh.png" group-title="ana",TRT Spor
-http://185.234.111.229:8000/play/a00e
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107211
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="ana",A Spor
-//trkvz-live.daioncdn.net/aspor/aspor.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107210
 
-#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" group-title="ana",ATV Avrupa
-http://185.234.111.229:8000/play/a018
+#EXTINF:-1 tvg-id="beINSports.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="ana", BeIn Sports Max 1
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107204
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="ana",beIN Sports Haber
-https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107195
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="ana",Haber Global
-https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107253
 
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="ana",Habertürk TV
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
@@ -46,28 +46,19 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 http://185.234.111.229:8000/play/a016
 
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="ana",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-
-#EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="https://i.imgur.com/wlfyj5l.png" group-title="ana",Kanal 7 Avrupa
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107255
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png" group-title="ana",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
-#EXTINF:-1 tvg-id="NTVSpor.tr" tvg-logo="https://i.imgur.com/5pvsIsL.png" group-title="ana",NTV Spor
-http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="https://e7.pngegg.com/pngimages/563/935/png-clipart-fox-news-logo-television-fox-international-channels-fox-purple-blue-thumbnail.png" group-title="ana",Fox
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107235
 
 #EXTINF:-1 tvg-id="SSport.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="ana",S Sport
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="ana",TürkHaber
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV8int.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="ana",TV8int
-http://77.83.120.135:8001/play/a0wy
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107217
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png" group-title="ana",TV 8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/226171
 
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="https://i.imgur.com/x9kHsXo.png" group-title="ana",Euro D
 http://185.234.111.229:8000/play/a01w
@@ -76,9 +67,23 @@ http://185.234.111.229:8000/play/a01w
 http://185.234.111.229:8000/play/a01h
 
 #EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="https://i.imgur.com/GeEDOPN.png" group-title="ana",KRAL TV 
-https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107387
 
+#EXTINF:-1 tvg-id="TV8int.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c2/TV8_Int_logosu.jpg" group-title="ana",TV8int
 http://77.83.120.135:8001/play/a0wy
+
+#EXTINF:-1 tvg-id="NBA.tr" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/440/non_2x/nba-logo-nba-icon-transparent-free-png.png" group-title="sport", NBA
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107222
+
+#EXTINF:-1 tvg-id="DAZN.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="sport", DAZN
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/70740
+
+#EXTINF:-1 tvg-id="RTLPlus.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/RTL%2B_Logo_2021_schwarz.png" group-title="sport", RTL+
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107001
+
+#EXTINF:-1 tvg-id="Skysport.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPs0uqIDKoQdcjyCbja6Xw781wPDXNgTFkoQ&s" group-title="sport", Sky Sport
+http://zyniptv.com:8080/goldhd.gollfan/Mh5OGvgh4G/107080
+
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="extra",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="https://i.imgur.com/8FO41es.png" group-title="extra",24 TV
